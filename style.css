@@ -1,0 +1,53 @@
+.head{
+    text-align: center;
+    font-family: Teko;
+    color: white;
+    
+}
+
+.first{
+    text-align: center;
+    background-color: black;
+    margin: auto;
+    max-width: 30vw;
+   
+}
+
+.button{
+    padding: 20px;
+    border: 2px solid black;
+    margin: 8px 2px;
+    border-radius: 100%;
+    cursor: pointer;
+    background-color: grey#333333;
+    font-weight: bold;
+}
+
+.zero{
+    padding-left: 50px;
+    padding-right: 50px;
+    border-radius: 50%;
+}
+
+.input{
+    width: 200px;
+    padding : 15px 15px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-size: 20px;
+    margin: 10px 87px;
+    text-align: center;
+    
+}
+
+.sym{
+    background-color: #ff9f0a;
+}
+
+.flex{
+    display: flex;
+}
+
+.flex-column{
+    flex-direction: column;
+}
